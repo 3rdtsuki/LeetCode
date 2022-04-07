@@ -1,5 +1,5 @@
-This is a classical instance,one of the best solution is dp
-java version,O(n),1ms,44.6mb
+// This is a classical instance,one of the best solution is dp
+// java version,O(n),1ms,44.6mb
 
 class Solution {
     public int maxSubArray(int[] nums) {
@@ -16,7 +16,7 @@ class Solution {
     }
 }
 
-Second,divide and conquer version,O(nlogn),3ms,46.4mb
+// Second,divide and conquer version,O(nlogn),3ms,46.4mb
 
 class Solution {
     public int mSA(int[] nums,int left,int right){
